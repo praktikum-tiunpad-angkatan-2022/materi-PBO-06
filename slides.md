@@ -114,6 +114,10 @@ src: ./pages/22_Instansiasi Anonymous Class(lanj. 2).md
 
 ---
 ---
+src: ./pages/22_Snippets.md
+
+---
+---
 src: ./pages/23_Cover Exercise.md 
 
 ---
